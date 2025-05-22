@@ -32,7 +32,7 @@ nimble install nim_lib_ot_core
 Or add to your .nimble file:
 
 ```nim
-requires "nim_lib_ot_core >= 0.1.0"
+requires "nim_lib_ot_core >= 0.0.0"
 ```
 
 ## Usage Examples
@@ -231,7 +231,7 @@ For detailed API documentation, see the [API docs](docs/api.md). For information
 ### Building from Source
 
 ```bash
-git clone https://github.com/username/nim-lib-ot-core.git
+git clone https://github.com/jasagiri/nim-lib-ot-core.git
 cd nim-lib-ot-core
 nimble build
 ```
